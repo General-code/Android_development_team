@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mp_team_project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ㅇㅇㅇ</string>
+    <string name="nav_header_subtitle">politics.in.the.pond@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">설정</string>
+
+    <string name="menu_home">모두의 일기</string>
+    <string name="menu_gallery">나의 일기</string>
+    <string name="menu_slideshow">활동 정보</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_info">앱 정보</string>
+</resources>
