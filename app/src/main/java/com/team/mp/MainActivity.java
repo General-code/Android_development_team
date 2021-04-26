@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                Toast.makeText(MainActivity.this, "누름", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "일기장으로 이동해요!", Toast.LENGTH_SHORT).show();
             }
         });
     }
